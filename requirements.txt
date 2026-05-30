@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+notebook
+flask
+fastapi
+requests
+emoji
+plotly>=5.24
+streamlit>=1.30
